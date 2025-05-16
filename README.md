@@ -23,7 +23,7 @@ Site **front-end** apresentando um aplicativo de karaokê com IA e suas funciona
 </div>
 
 ## 🌐 Acesso ao Projeto
-[![Acessar Zingen](https://img.shields.io/badge/-Acessar%20Zingen-9C27B0?style=for-the-badge)](https://luizacavalcantee.github.io/zingen/#about)
+[![Acessar Zingen](https://img.shields.io/badge/-Acessar%20Zingen-1572B6?style=for-the-badge)](https://luizacavalcantee.github.io/zingen/#about)
 
 🔍 **Todos os meus projetos**: [github.com/luizacavalcantee](https://github.com/luizacavalcantee)  
 💌 **Contato**: cavalcanteluiza13@gmail.com | [LinkedIn](https://www.linkedin.com/in/luizacavalcanteee/)
